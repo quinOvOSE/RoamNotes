@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2f1ee214-8f5d-4263-b554-9fa90e99b480
+:END:
+#+title: Imperial College London
+
+* Place
+  [[id:0c39f044-9b22-4117-b0c0-6ac0308618c2][England]]

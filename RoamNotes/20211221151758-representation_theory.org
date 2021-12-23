@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a27abcfb-aa8e-4b7e-b66f-12c8e3cb8743
+:END:
+#+title: Representation theory
+
+this is a Theory of how to represent a thing.
+
+* [[id:57752e05-f37d-4759-9322-7eef9f1b83b3][Group representation]]
+
+
+* [[id:594a6da9-6b66-4c32-80f5-a5279b70fbf4][Lie Algebra]]
+
+
+* [[id:edc9dc5f-3e19-4969-9f87-2f066f28eb0c][Quiver]]

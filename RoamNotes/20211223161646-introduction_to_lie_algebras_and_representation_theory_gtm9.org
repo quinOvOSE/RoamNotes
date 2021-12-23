@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2d236d88-a0ab-4b52-bdcd-02758dd27f3b
+:END:
+#+title: Introduction to Lie Algebras and Representation Theory(gtm9)
+
+* author
+[[id:d101fa06-252e-4360-af3f-8316e935e362][James E. Humphreys]]

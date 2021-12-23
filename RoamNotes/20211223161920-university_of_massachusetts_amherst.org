@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4d1daddd-792a-400b-b792-a79e7430b0f8
+:END:
+#+title: University of Massachusetts Amherst
+
+* place
+[[id:27aafb0a-79d5-49e7-98f6-fdd6b8fffffe][United States]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3342ed9e-cc3c-4813-a07a-53a36f2a086b
+:END:
+#+title: Representations and Characters of Groups (052100392X)
+
+type: BOOK
+Author: [[id:fa68f8b2-249a-489b-b675-3ef44a06fcaf][Martin Liebeck]] and [[id:a5c0dadc-c065-4c75-911c-9f15205bdb62][Gordon James]]

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       57752e05-f37d-4759-9322-7eef9f1b83b3
+:END:
+#+title: Group representation
+
+
+[[id:790502b5-c808-4245-8b93-4fecb49fea41][Linear Representations of Finite Groups(gtm42)]]
+[[id:3342ed9e-cc3c-4813-a07a-53a36f2a086b][Representations and Characters of Groups (052100392X)]]

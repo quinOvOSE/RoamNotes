@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       1bc04eb5-694c-4666-b845-ca8f900fd947
+:END:
+#+title: associative algebras

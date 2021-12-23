@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       71140462-145f-41c1-8848-9f1a00ec029e
+:END:
+#+title: Introduction to representation theory (Document)
+
+* Path
+[[/home/huangshichen/RoamNotes/Introduction to representation theory.pdf]]
+
+* Author
+[[id:9e4a1194-4fed-41ed-a45b-fdcac8a0d1a8][Pavel Etingof]]

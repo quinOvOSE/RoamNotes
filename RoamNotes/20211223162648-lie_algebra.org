@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       594a6da9-6b66-4c32-80f5-a5279b70fbf4
+:END:
+#+title: Lie Algebra
+
+[[id:2d236d88-a0ab-4b52-bdcd-02758dd27f3b][Introduction to Lie Algebras and Representation Theory(gtm9)]]

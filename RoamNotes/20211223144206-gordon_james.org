@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a5c0dadc-c065-4c75-911c-9f15205bdb62
+:END:
+#+title: Gordon James
+
+* place
+[[id:2f1ee214-8f5d-4263-b554-9fa90e99b480][Imperial College London]]

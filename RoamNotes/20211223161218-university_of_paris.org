@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a24d3200-e0ae-4544-8519-5b3c554a3fd4
+:END:
+#+title: University of Paris
+
+
+* place
+[[id:6baddcbb-a78a-429c-bf0d-3f823b4767f7][France]]

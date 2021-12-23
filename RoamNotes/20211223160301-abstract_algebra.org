@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       25a537ba-a667-40af-88ae-e805531a8300
+:END:
+#+title: Abstract algebra

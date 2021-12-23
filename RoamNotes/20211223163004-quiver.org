@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       edc9dc5f-3e19-4969-9f87-2f066f28eb0c
+:END:
+#+title: Quiver
+
+[[id:71140462-145f-41c1-8848-9f1a00ec029e][Introduction to representation theory (Document)]]

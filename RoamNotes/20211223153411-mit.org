@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3d75fad6-33ff-482b-9097-33b1c4deb5e1
+:END:
+#+title: MIT
+
+
+* Place
+[[id:27aafb0a-79d5-49e7-98f6-fdd6b8fffffe][United States]]

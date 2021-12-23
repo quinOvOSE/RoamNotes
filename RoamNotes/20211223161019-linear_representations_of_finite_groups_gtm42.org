@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       790502b5-c808-4245-8b93-4fecb49fea41
+:END:
+#+title: Linear Representations of Finite Groups(gtm42)
+
+* locate
+[[/home/huangshichen/RoamNotes/(Graduate Texts in Mathematics 42) Jean-Pierre Serre (auth.) - Linear Representations of Finite Groups-Springer-Verlag New York (1977).pdf][gtm42]]
+
+* Author
+  [[id:56b3cca5-713b-4ae1-9e46-68d2e0d0dabb][Jean-Pierre Serre]]
